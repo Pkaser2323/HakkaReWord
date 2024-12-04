@@ -163,8 +163,9 @@ def start_quiz():
     conn = sqlite3.connect(DB_FILE)
     cursor = conn.cursor()
 
+    # 查詢包含拼音的 quiz 資料
     cursor.execute("""
-        SELECT q.question, q.answer, q.options, v.id
+        SELECT q.question, q.answer, q.options, v.id, v.pinyin
         FROM quiz q
         JOIN vocab v ON q.word_id = v.id
         ORDER BY RANDOM() LIMIT 5
@@ -175,20 +176,36 @@ def start_quiz():
     if quizzes:
         print("\n=== 開始測驗 ===")
         for quiz in quizzes:
-            question, answer, options_str, word_id = quiz
+            question, answer, options_str, word_id, answer_pinyin = quiz
+            # 解析選項
             options = options_str.split(";")
+            # 取得每個選項的拼音
+            conn = sqlite3.connect(DB_FILE)
+            cursor = conn.cursor()
+            option_with_pinyin = []
+            for option in options:
+                cursor.execute("SELECT word, pinyin FROM vocab WHERE word = ?", (option,))
+                result = cursor.fetchone()
+                if result:
+                    option_with_pinyin.append(f"{result[0]} ({result[1]})")
+                else:
+                    option_with_pinyin.append(option)  # 若找不到，僅顯示單字
+            conn.close()
+
             print(f"\n題目: {question}")
-            for i, option in enumerate(options, start=1):
+            for i, option in enumerate(option_with_pinyin, start=1):
                 print(f"{chr(64 + i)}. {option}")
 
+            # 使用者回答
             user_input = input("\n請選擇答案 (A/B/C/D)：").strip().upper()
             if user_input in "ABCD":
-                selected_option = options[ord(user_input) - 65]
+                selected_index = ord(user_input) - 65
+                selected_option = options[selected_index]
                 if selected_option == answer:
                     print("答對了！")
                     update_review(word_id, "good")
                 else:
-                    print(f"答錯了！正確答案是：{answer}")
+                    print(f"答錯了！正確答案是：{answer} ({answer_pinyin})")
                     update_review(word_id, "poor")
                     log_incorrect_answer(word_id, selected_option)
             else:
@@ -206,7 +223,7 @@ def fetch_for_review():
     for word_id, word, pinyin, last_review, s_value, incorrect_count in words:
         last_review_date = datetime.strptime(last_review.split('.')[0], "%Y-%m-%d %H:%M:%S")
         days_elapsed = (datetime.now() - last_review_date).total_seconds() / (3600 * 24)
-        print(days_elapsed)
+        #print(days_elapsed)
         retention = np.exp(-days_elapsed / s_value)
 
         if retention < 1.02 and incorrect_count > 0:
