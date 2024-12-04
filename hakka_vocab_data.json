@@ -1,0 +1,472 @@
+[
+  {
+    "word": "擂茶",
+    "pinyin": "luiˇ caˇ",
+    "example": "阿姆擂一盅擂茶來食。"
+  },
+  {
+    "word": "桐花",
+    "pinyin": "tungˇ faˊ",
+    "example": "清明節後，桐花滿山開。"
+  },
+  {
+    "word": "田埂",
+    "pinyin": "tienˇ siinˇ",
+    "example": "佢仔走佇田塍邊。"
+  },
+  {
+    "word": "禾苗",
+    "pinyin": "voˇ meuˇ",
+    "example": "禾苗長大青油油。"
+  },
+  {
+    "word": "客棧",
+    "pinyin": "hagˋ diam",
+    "example": "村口有間古客棧。"
+  },
+  {
+    "word": "竹筍",
+    "pinyin": "zugˋ sunˋ",
+    "example": "春天挖竹筍當菜食。"
+  },
+  {
+    "word": "石磨",
+    "pinyin": "sag mo",
+    "example": "阿公用石磨磨豆。"
+  },
+  {
+    "word": "紅薯",
+    "pinyin": "fungˇ suˇ",
+    "example": "紅薯好甜好香。"
+  },
+  {
+    "word": "地瓜",
+    "pinyin": "fanˊ suˇ",
+    "example": "番薯加糖，煮起來好食。"
+  },
+  {
+    "word": "古厝",
+    "pinyin": "guˋ cu",
+    "example": "這古厝已有百年歷史。"
+  },
+  {
+    "word": "酒糟",
+    "pinyin": "jiuˋ zoˊ",
+    "example": "酒糟用來養豬真好。"
+  },
+  {
+    "word": "麥芽糖",
+    "pinyin": "mag ngaˇ tongˇ",
+    "example": "佢愛吃麥芽糖。"
+  },
+  {
+    "word": "炊煙",
+    "pinyin": "foˋ ienˊ",
+    "example": "炊煙從屋頂直升天。"
+  },
+  {
+    "word": "糯米",
+    "pinyin": "no miˋ",
+    "example": "糯米糕好食又甜。"
+  },
+  {
+    "word": "臘肉",
+    "pinyin": "lab ngiugˋ",
+    "example": "臘肉過年必定要準備。"
+  },
+  {
+    "word": "柴火",
+    "pinyin": "ceuˇ foˋ",
+    "example": "柴火燒得旺，準備煮飯。"
+  },
+  {
+    "word": "屋頂",
+    "pinyin": "vugˋ dangˋ",
+    "example": "屋頂漏雨，佢仔修得密密。"
+  },
+  {
+    "word": "水井",
+    "pinyin": "suiˋ jiangˋ",
+    "example": "水井清澈又涼快。"
+  },
+  {
+    "word": "庭院",
+    "pinyin": "tienˊ ciiˇ",
+    "example": "庭院種滿花草好漂亮。"
+  },
+  {
+    "word": "廊橋",
+    "pinyin": "piangˇ longˇ",
+    "example": "廊橋連接兩邊村莊。"
+  },
+  {
+    "word": "早晨",
+    "pinyin": "zeuˊ sunˇ",
+    "example": "早晨太陽從山頭升起。"
+  },
+  {
+    "word": "燈光",
+    "pinyin": "denˊ gongˊ",
+    "example": "燈光照亮整間屋仔。"
+  },
+  {
+    "word": "衣服",
+    "pinyin": "samˊ hioˊ eˋ",
+    "example": "衣服掛滿竹竿好整齊。"
+  },
+  {
+    "word": "鞋子",
+    "pinyin": "munˇ cungˊ",
+    "example": "鞋子排放門口唔亂。"
+  },
+  {
+    "word": "門窗",
+    "pinyin": "cunˊ to",
+    "example": "門窗關得緊實防風雨。"
+  },
+  {
+    "word": "村道",
+    "pinyin": "tienˇ ti",
+    "example": "村道邊有幾棵古樹。"
+  },
+  {
+    "word": "田地",
+    "pinyin": "su limˇ",
+    "example": "田地種滿禾苗青油油。"
+  },
+  {
+    "word": "樹林",
+    "pinyin": "se hoˇ",
+    "example": "樹林間可以聽到鳥仔唱歌。"
+  },
+  {
+    "word": "小河",
+    "pinyin": "ba goˋ ziiˋ ienˇ",
+    "example": "小河水清可以看到魚。"
+  },
+  {
+    "word": "果園",
+    "pinyin": "fan zogˋ",
+    "example": "果園種滿水果真熱鬧。"
+  },
+  {
+    "word": "飯桌",
+    "pinyin": "nungˇ ki",
+    "example": "飯桌擺滿好食的菜餚。"
+  },
+  {
+    "word": "農具",
+    "pinyin": "ngaˋ gon",
+    "example": "農具放好，準備下地做事。"
+  },
+  {
+    "word": "瓦罐",
+    "pinyin": "caˇ gon",
+    "example": "瓦罐用來裝米放得整整齊齊。"
+  },
+  {
+    "word": "茶壺",
+    "pinyin": "mugˋ iˋ",
+    "example": "茶壺倒出茶水滿屋香。"
+  },
+  {
+    "word": "木椅",
+    "pinyin": "suˊ fongˇ",
+    "example": "木椅坐得舒服又穩固。"
+  },
+  {
+    "word": "書房",
+    "pinyin": "gieˊ ji",
+    "example": "書房放滿佢仔愛看的書本。"
+  },
+  {
+    "word": "雞舍",
+    "pinyin": "voˇ congˇ",
+    "example": "雞舍裡養好多雞，天天捉蛋。"
+  },
+  {
+    "word": "禾場",
+    "pinyin": "ngiuˇ pangˇ",
+    "example": "禾場曬滿稻穀金閃閃。"
+  },
+  {
+    "word": "牛棚",
+    "pinyin": "faˊ ienˇ",
+    "example": "牛棚有牛仔在吃草。"
+  },
+  {
+    "word": "花園",
+    "pinyin": "iunˇ caiˋ",
+    "example": "花園裡種滿花好香。"
+  },
+  {
+    "word": "雲彩",
+    "pinyin": "zaˊ eˋ",
+    "example": "雲彩映著晚霞真靚。"
+  },
+  {
+    "word": "雨傘",
+    "pinyin": "fungˊ caˊ",
+    "example": "雨傘放門口隨時攞用。"
+  },
+  {
+    "word": "風車",
+    "pinyin": "hoˇ ba",
+    "example": "風車轉動，佢仔好開心睇。"
+  },
+  {
+    "word": "河邊",
+    "pinyin": "sunˇ se",
+    "example": "河邊佢仔玩水唔想返屋。"
+  },
+  {
+    "word": "小路",
+    "pinyin": "lu to",
+    "example": "小路蜿蜒，通向山腳下。"
+  },
+  {
+    "word": "稻田",
+    "pinyin": "tienˇ zugˋ",
+    "example": "稻田金黃，村民忙著收割。"
+  },
+  {
+    "word": "竹林",
+    "pinyin": "hoˇ ba ienˊ",
+    "example": "竹林間好涼爽，適合散步。"
+  },
+  {
+    "word": "溪流",
+    "pinyin": "hamˇ sag biagˋ",
+    "example": "溪流潺潺，好清涼。"
+  },
+  {
+    "word": "煙囪",
+    "pinyin": "haiˊ suiˋ",
+    "example": "煙囪冒著炊煙，準備煮飯。"
+  },
+  {
+    "word": "石牆",
+    "pinyin": "gieuˊ foˋ",
+    "example": "石牆堅固，圍住全家安全。"
+  },
+  {
+    "word": "溪水",
+    "pinyin": "ngˇ tongˇ",
+    "example": "溪水清澈見底，魚游來游去。"
+  },
+  {
+    "word": "篝火",
+    "pinyin": "ga eˋ",
+    "example": "篝火點著，佢仔圍住取暖。"
+  },
+  {
+    "word": "魚塘",
+    "pinyin": "kieuˇ sanˊ",
+    "example": "魚塘裡滿塘魚，養得好靚。"
+  },
+  {
+    "word": "橋樑",
+    "pinyin": "paiˇ goˋ",
+    "example": "橋樑連接兩岸，方便村民通行。"
+  },
+  {
+    "word": "山坡",
+    "pinyin": "zogˋ voˇ eˋ",
+    "example": "山坡上放養好多羊仔。"
+  },
+  {
+    "word": "果樹",
+    "pinyin": "gugˋ nungˇ sa",
+    "example": "果樹結滿果，村民忙著收成。"
+  },
+  {
+    "word": "稻谷",
+    "pinyin": "ceuˇ fongˇ ngiuˇ ciin",
+    "example": "稻谷曬乾準備收藏。"
+  },
+  {
+    "word": "農舍",
+    "pinyin": "mugˋ zogˋ",
+    "example": "農舍裡放滿農作物。"
+  },
+  {
+    "word": "柴房",
+    "pinyin": "ngaˋ vugˋ",
+    "example": "柴房囤滿柴火，冬天唔怕冷。"
+  },
+  {
+    "word": "牛群",
+    "pinyin": "libˋ eˋ",
+    "example": "牛群成隊排排行，真壯觀。"
+  },
+  {
+    "word": "木桌",
+    "pinyin": "tenˇ iˋ",
+    "example": "木桌放客廳好實用。"
+  },
+  {
+    "word": "瓦房",
+    "pinyin": "coi ti",
+    "example": "瓦房修得好漂亮，住得舒服。"
+  },
+  {
+    "word": "草帽",
+    "pinyin": "zugˋ goˊ",
+    "example": "草帽遮太陽，農人好鍾意用。"
+  },
+  {
+    "word": "藤椅",
+    "pinyin": "sanˊ paiˇ",
+    "example": "藤椅放陽台好適合歇涼。"
+  },
+  {
+    "word": "菜地",
+    "pinyin": "tienˇ su ginˊ",
+    "example": "菜地種滿青菜，村民忙著除草。"
+  },
+  {
+    "word": "竹篙",
+    "pinyin": "hong to",
+    "example": "竹篙放河邊用來划船。"
+  },
+  {
+    "word": "梯田",
+    "pinyin": "qiangˊ sanˊ",
+    "example": "梯田層層疊疊，好靚好壯觀。"
+  },
+  {
+    "word": "樹根",
+    "pinyin": "suiˋ zun limˇ",
+    "example": "樹根長得牢固，樹仔生得好壯。"
+  },
+  {
+    "word": "巷道",
+    "pinyin": "gienˊ coˋ puˊ",
+    "example": "巷道小但乾淨，村仔小朋友常玩。"
+  },
+  {
+    "word": "青山",
+    "pinyin": "naiˇ lu gon",
+    "example": "青山環繞，風景真靚。"
+  },
+  {
+    "word": "水渠",
+    "pinyin": "hoˇ sunˇ sonˇ",
+    "example": "水渠水流通，田仔唔怕缺水。"
+  },
+  {
+    "word": "林間",
+    "pinyin": "zagˋ ngˇ miongˋ",
+    "example": "林間好陰涼，適合散步。"
+  },
+  {
+    "word": "草地",
+    "pinyin": "ngˇ cunˊ denˊ tabˋ",
+    "example": "草地鋪滿綠草，村仔牛仔放養。"
+  },
+  {
+    "word": "泥路",
+    "pinyin": "sanˊ naˇ limˇ",
+    "example": "泥路唔好行，下雨就好滑。"
+  },
+  {
+    "word": "灌木",
+    "pinyin": "sanˊ haiˊ guˋ",
+    "example": "灌木成叢，佢仔喺度捉鳥。"
+  },
+  {
+    "word": "河岸",
+    "pinyin": "to jiangˋ goi",
+    "example": "河岸邊釣魚真好玩。"
+  },
+  {
+    "word": "船隻",
+    "pinyin": "zonˊ qiongˇ voˇ",
+    "example": "船隻泊河邊，佢仔準備出海。"
+  },
+  {
+    "word": "漁網",
+    "pinyin": "iongˊ zugˋ leuˇ",
+    "example": "漁網撈滿魚仔，好開心。"
+  },
+  {
+    "word": "漁村",
+    "pinyin": "mugˋ tungˋ",
+    "example": "漁村燈光點點，好美麗。"
+  },
+  {
+    "word": "燈塔",
+    "pinyin": "ngoˇ eˋ kiunˇ",
+    "example": "燈塔指引佢仔出海方向。"
+  },
+  {
+    "word": "山林",
+    "pinyin": "ngaˋ sagˋ eˋ tuˋ",
+    "example": "山林裡好安靜，可以聽鳥聲。"
+  },
+  {
+    "word": "山溪",
+    "pinyin": "qiongˇ naiˇ zonˊ",
+    "example": "山溪清涼，佢仔鍾意喺度玩水。"
+  },
+  {
+    "word": "古道",
+    "pinyin": "liongˇ tinˇ coˋ",
+    "example": "古道留住好多歷史痕跡。"
+  },
+  {
+    "word": "井蓋",
+    "pinyin": "vugˋ liˋ ziiˊ ngiuˇ ngienˋ",
+    "example": "井蓋修好，防止跌落井底。"
+  },
+  {
+    "word": "磚牆",
+    "pinyin": "vongˇ giungˊ zeuˊ",
+    "example": "磚牆圍住村莊好安全。"
+  },
+  {
+    "word": "禾秧",
+    "pinyin": "gamˊ eˋ iu",
+    "example": "禾秧長得壯，村民準備插秧。"
+  },
+  {
+    "word": "竹簍",
+    "pinyin": "eˋ iongˇ toˇ",
+    "example": "竹簍用來裝菜，好方便。"
+  },
+  {
+    "word": "木桶",
+    "pinyin": "suiˋ tienˇ voˇ gonˋ",
+    "example": "木桶裝水又大又實用。"
+  },
+  {
+    "word": "鵝群",
+    "pinyin": "suiˋ to nungˇ tienˇ",
+    "example": "鵝群成隊，村仔仔女喺度睇佢游水。"
+  },
+  {
+    "word": "瓦片",
+    "pinyin": "gamˊ za bauˊ xiugˋ",
+    "example": "瓦片鋪得整齊，村仔修得真好。"
+  },
+  {
+    "word": "土牆",
+    "pinyin": "sanˊ qienˇ",
+    "example": "土牆舊但仲好實用。"
+  },
+  {
+    "word": "泥磚",
+    "pinyin": "sanˊ dangˋ sanˊ hangˊ",
+    "example": "泥磚堅固，屋仔修得耐用。"
+  },
+  {
+    "word": "涼亭",
+    "pinyin": "sag biongˊ sanˊ lu",
+    "example": "涼亭坐滿村仔人，聊天真熱鬧。"
+  },
+  {
+    "word": "草屋",
+    "pinyin": "iaˊ coˋ mauˇ eˋ",
+    "example": "草屋簡單但住得舒服。"
+  }
+]
